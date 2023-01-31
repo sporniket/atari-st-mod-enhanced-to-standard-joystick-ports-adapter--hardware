@@ -3228,7 +3228,7 @@
     (uuid 3a41dd27-ec14-44d5-b505-aad1d829f79a)
     (property "Reference" "J1" (id 0) (at 26.67 22.86 0))
     (property "Value" "Joy0/Mouse" (id 1) (at 26.67 48.26 0))
-    (property "Footprint" "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm" (id 2) (at 26.67 35.56 0)
+    (property "Footprint" "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" (id 2) (at 26.67 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 26.67 35.56 0)
@@ -3266,7 +3266,7 @@
     (uuid 413a6d7b-7637-4c53-9629-c2c873aa85eb)
     (property "Reference" "J3" (id 0) (at 156.21 205.74 0))
     (property "Value" "Enhanced Joystick Port" (id 1) (at 156.21 246.38 0))
-    (property "Footprint" "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm" (id 2) (at 156.21 226.06 0)
+    (property "Footprint" "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm" (id 2) (at 156.21 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 156.21 226.06 0)
@@ -3438,7 +3438,7 @@
     (uuid 4d9a5c15-b6c5-47a2-bb8c-738307f9e339)
     (property "Reference" "J2" (id 0) (at 74.93 22.86 0))
     (property "Value" "Joy1" (id 1) (at 74.93 48.26 0))
-    (property "Footprint" "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm" (id 2) (at 74.93 35.56 0)
+    (property "Footprint" "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" (id 2) (at 74.93 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 35.56 0)
@@ -4697,13 +4697,13 @@
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/3a41dd27-ec14-44d5-b505-aad1d829f79a"
-      (reference "J1") (unit 1) (value "Joy0/Mouse") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm")
+      (reference "J1") (unit 1) (value "Joy0/Mouse") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/4d9a5c15-b6c5-47a2-bb8c-738307f9e339"
-      (reference "J2") (unit 1) (value "Joy1") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm")
+      (reference "J2") (unit 1) (value "Joy1") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/413a6d7b-7637-4c53-9629-c2c873aa85eb"
-      (reference "J3") (unit 1) (value "Enhanced Joystick Port") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm")
+      (reference "J3") (unit 1) (value "Enhanced Joystick Port") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm")
     )
     (path "/87beaccd-9491-499a-bd97-523fb030f5ba"
       (reference "J4") (unit 1) (value "OLED 128×64") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
