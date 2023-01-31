@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "rpi-pico")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/assemblies/rpi/rpi-pico.lib")(options "")(descr ""))
+)
