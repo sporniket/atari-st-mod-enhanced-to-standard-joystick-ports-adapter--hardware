@@ -3783,7 +3783,7 @@
     (uuid 87beaccd-9491-499a-bd97-523fb030f5ba)
     (property "Reference" "J3" (id 0) (at 156.21 172.72 0))
     (property "Value" "OLED 128×64" (id 1) (at 156.21 185.42 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 156.21 177.8 0)
+    (property "Footprint" "assemblies_displays_oled:oled_display_iic_128x64pix__outer_26.70x19.26mm__inner_21.74x11.2mm" (id 2) (at 156.21 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 156.21 177.8 0)
@@ -4634,7 +4634,7 @@
       (reference "J2") (unit 1) (value "Joy1") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/87beaccd-9491-499a-bd97-523fb030f5ba"
-      (reference "J3") (unit 1) (value "OLED 128×64") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "OLED 128×64") (footprint "assemblies_displays_oled:oled_display_iic_128x64pix__outer_26.70x19.26mm__inner_21.74x11.2mm")
     )
     (path "/413a6d7b-7637-4c53-9629-c2c873aa85eb"
       (reference "J4") (unit 1) (value "Enhanced Joystick Port") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm")
