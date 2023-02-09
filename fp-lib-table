@@ -2,4 +2,5 @@
   (lib (name "assembly_uc_boards")(type "KiCad")(uri "${KIPRJMOD}/kicad-footprints-handmade/assemblies_uc_boards.pretty")(options "")(descr ""))
   (lib (name "commons-interconnect_THT")(type "KiCad")(uri "${KIPRJMOD}/kicad-footprints-handmade/commons-interconnect_THT.pretty")(options "")(descr ""))
   (lib (name "assemblies_displays_oled")(type "KiCad")(uri "${KIPRJMOD}/kicad-footprints-handmade/assemblies_displays_oled.pretty")(options "")(descr ""))
+  (lib (name "cliparts")(type "KiCad")(uri "${KIPRJMOD}/cliparts.pretty")(options "")(descr ""))
 )
